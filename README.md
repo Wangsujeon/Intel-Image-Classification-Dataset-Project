@@ -27,8 +27,8 @@ The Intel Image Classification Dataset is a diverse collection of images showcas
 ```bash
 git clone https://github.com/mthanhlm/Project/blob/main/intel-image-classification-dataset.ipynb
 ipython intel-image-classification-dataset.ipynb.ipynb
-'''
-## Result
+```
+## Results
 
 The model has achieved an accuracy of over 95% in classifying images from different layers of the earth. Notably, the model utilizes only 279,590 parameters, demonstrating lightweight and efficient resource usage.
 
